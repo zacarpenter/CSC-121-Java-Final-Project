@@ -1,5 +1,5 @@
 # CSC-151-Java-Final-Project
-The Final Project for my CSC-151 course.
+The Final Project for my CSC-151 course. I completed this course in the Fall of 2021
 
 
 CSC 151 FINAL PROJECT TOPICS
